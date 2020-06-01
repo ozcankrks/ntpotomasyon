@@ -21,15 +21,15 @@ object-oriented programming lesson simple data-based automation
 
 **Pictures and Features :**
 
-![Login Page](https://i.hizliresim.com/wwOegP.png "Login Page")
+![Login Page](https://i.hizliresim.com/wwOegP.png)
 *We login as Admin or User by typing Username and Password*
 
-![admin page](https://i.hizliresim.com/5yN7Lj.png "admin page")
+![admin page](https://i.hizliresim.com/5yN7Lj.png)
 *When we log in as an admin, we come across the screen where we can perform our operations.*
 
-![user page](https://i.hizliresim.com/DS45FY.png "user page")
+![user page](https://i.hizliresim.com/DS45FY.png)
 *When we log in as a user, we come across the screen where we can perform our operations.*
 
-![admin panel](https://i.hizliresim.com/6tDIgE.png "admin panel")
+![admin panel](https://i.hizliresim.com/6tDIgE.png)
 *Admin features*
 
