@@ -1,0 +1,381 @@
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Form1.resources
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+c:\users\703\documents\visual studio 2012\Projects\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlptopstinalama.resources
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+G:\_ProjeOdevimGuncel\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlapozellik.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\703\Desktop\yeniden proje\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\Proğramlar\Ntp\Ntp uygulama\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+G:\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+G:\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+G:\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+G:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\703\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\fatih\Desktop\Yeni klasör\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+F:\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+F:\ProjeOdevim\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+F:\ProjeOdevim\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+G:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulblgiguncel.resources
+F:\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulblgiguncel.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulblgiguncel.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\fatih\Desktop\ProjeOdevim - Kopya (2)\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\ProjeOdevim dev\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\fatih\Desktop\ProjeOdevimikiresimli\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\fatih\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\710\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+G:\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+G:\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+G:\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+G:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+F:\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+F:\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+F:\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+F:\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunsatinalma.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\703\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+G:\ödev\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojResolveAssemblyReference.cache
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\fatih\Desktop\Proğramlar\fatih bilgisayar bolum\Ntp uygulama\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.Cache
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.pdb
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojAssemblyReference.cache
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.cache
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\ozcan\Desktop\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe.config
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\bin\Debug\ProjeOdevim.exe
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csprojAssemblyReference.cache
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmadmin.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmGiris.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmKayit.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkulbilgiguncel.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmkullanici.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmlaptop.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmsifremiunuttum.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.frmurunekle.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.Properties.Resources.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.urunsatinalma.resources
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.GenerateResource.cache
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.exe
+C:\Users\ozcan\Desktop\NTP ÖDEV\ProjeOdevimsonhali\ProjeOdevim\obj\Debug\ProjeOdevim.pdb
